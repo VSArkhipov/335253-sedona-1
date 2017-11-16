@@ -516,6 +516,7 @@
 
 .map iframe {
 	border: none;
+	background: #cbdda9;
 }
 
 @-webkit-keyframes bounce {
@@ -804,6 +805,7 @@
 	padding-right: 9px;
 	right: 0px;
 	top: 8px;
+	font-size: 0px;
 }
 
 .calendar a {
@@ -1368,6 +1370,7 @@
 	height: 17px;
 	background: url("../img/star.svg");
 	vertical-align: baseline;
+	font-size: 0px;
 }
 
 .star4 {

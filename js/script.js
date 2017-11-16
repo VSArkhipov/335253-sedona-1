@@ -1,5 +1,5 @@
 var link = document.querySelector(".modal_link");
-var popup = document.querySelector(".modal_hidden");
+var popup = document.querySelector(".modal_show");
 
 var form = popup.querySelector("form");
 var arrival = popup.querySelector("[name=arrival]");
